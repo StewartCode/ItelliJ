@@ -7,12 +7,10 @@ public class TestBottle {
 
     Bottle bottle;
 
-
     @Before
-public void before(){
+   public void before(){
         bottle = new Bottle(100);
     }
-
 
     @Test
     public void testFill(){
@@ -33,5 +31,11 @@ public void before(){
     @Test
     public void testDrink() {
         assertEquals(90, bottle.drink());
+    }
+
+    @Test
+    public void testSetVolumn(){
+        Bottle b = new Bottle(0);
+        assertEquals(90, b.setVolume(90));
     }
 }

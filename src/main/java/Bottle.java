@@ -7,8 +7,11 @@ public class Bottle {
         this.volume = volume;
     }
 
+
+
+
     public int getVolume() {
-        return volume;
+        return this.volume;
     }
 
     public void setVolume(int volume) {

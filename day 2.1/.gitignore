@@ -1,0 +1,58 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+# Compiled class file
+*.class
+
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# IntelliJ
+.idea/
+out/
+target/
+.idea_modules/
+.gitignore
+.gradle/
+2.2/.gradle/
+2.2/build.gradle
+2.2/gradle/wrapper/gradle-wrapper.properties
+2.2/gradlew
+2.2/gradlew.bat
+2.2/multiple_classes_start/.gradle/
+2.2/multiple_classes_start/build.gradle
+2.2/multiple_classes_start/gradle/wrapper/gradle-wrapper.properties
+2.2/multiple_classes_start/gradlew
+2.2/multiple_classes_start/gradlew.bat
+2.2/multiple_classes_start/settings.gradle
+2.2/multiple_classes_start/src/main/java/Bear.java
+2.2/multiple_classes_start/src/main/java/Salmon.java
+2.2/multiple_classes_start/src/test/java/BearTest.java
+2.2/settings.gradle
+2.2/src/
+array_start_point/.gradle/
+array_start_point/build.gradle
+array_start_point/gradle/wrapper/gradle-wrapper.properties
+array_start_point/gradlew
+array_start_point/gradlew.bat
+array_start_point/settings.gradle
+array_start_point/src/
+build.gradle
+gradle/wrapper/gradle-wrapper.properties
+gradlew
+gradlew.bat
+hashes/.gradle/
+hashes/build.gradle
+hashes/gradle/wrapper/gradle-wrapper.properties
+hashes/gradlew
+hashes/gradlew.bat
+hashes/settings.gradle
+hashes/src/
+settings.gradle
+src/
